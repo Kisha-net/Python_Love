@@ -1,2 +1,2 @@
 # Python_Love
-Getting to work with python #django 
+On my Journey to Getting to work with python #django 
